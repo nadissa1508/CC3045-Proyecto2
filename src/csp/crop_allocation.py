@@ -2,7 +2,6 @@
 Módulo CSP: Asignación de variedades de café a parcelas
 """
 
-# src/csp/crop_allocation.py
 from constraint import Problem
 
 def solve_farm_csp(parcelas):
